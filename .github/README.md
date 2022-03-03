@@ -33,3 +33,7 @@ database=yourdatabase
 user=postgres
 password=YourP4ssword$
 ```
+
+## License
+
+* [The MIT License](https://opensource.org/licenses/MIT) 2022 Unknown
