@@ -14,7 +14,7 @@ Using psycopg2 #Python.
 - cd psql-connect
 
 # Install requirements
-- pip3 install -qq -r requirements.txt
+- pip3 install -qq -r dev-req.txt
 
 # GNU nano text editor
 - nano database.ini   # see example and save file.
